@@ -4,4 +4,4 @@ We are trying to provide clean water to every human being upon the face of the e
 
 We would deliver clean and drinkable water to your door step.
 
-You can free to contribute to the developemt of the is App.
+You are free to contribute to the developemt of the is App.
