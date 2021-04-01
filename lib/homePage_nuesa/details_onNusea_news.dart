@@ -61,7 +61,6 @@ class _SecondScreenState extends State<SecondScreen> {
               ),
 
               Container(
-                height: 130,
                 color: Colors.white,
                 child: Column(
                   children: <Widget>[
@@ -86,7 +85,6 @@ class _SecondScreenState extends State<SecondScreen> {
                           padding: const EdgeInsets.all(3.0),
                           child: FlatButton.icon(    
                           onPressed: () {
-                          
                             var route = new MaterialPageRoute(
                               builder: (BuildContext context) =>
                               new Thanks_page(value: "" ),
