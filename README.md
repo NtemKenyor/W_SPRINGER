@@ -1,16 +1,7 @@
 # W_SPRINGER
 
-A new Flutter project.
+We are trying to provide clean water to every human being upon the face of the earth. As much as many developped coutries have access to water, some people still die of thirst.
 
-## Getting Started
+We would deliver clean and drinkable water to your door step.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You are free to contribute to the developemt of the is App.
